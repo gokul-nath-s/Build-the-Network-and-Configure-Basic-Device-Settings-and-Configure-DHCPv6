@@ -1,10 +1,8 @@
 # Build-the-Network-and-Configure-Basic-Device-Settings-and-Configure-DHCPv6
 
-
-
 ## Overview
 
-This project involved building and configuring a network to ensure smooth and efficient device communication using DHCPv6. The exercise was divided into several parts, each focusing on different aspects of network setup, configuration, and verification.
+This project involved building and configuring a network to ensure smooth and efficient device communication using DHCPv6, all implemented in a CISCO Packet Tracer file. The exercise was divided into several parts, each focusing on different aspects of network setup, configuration, and verification.
 
 ## Project Breakdown
 
@@ -31,18 +29,20 @@ This project involved building and configuring a network to ensure smooth and ef
 
 ## Installation and Usage
 
-To replicate this setup, follow these steps:
+To replicate this setup:
 
-1. **Cable the Network:** Set up the network topology as described.
-2. **Configure Switches and Routers:** Follow the configuration steps for each switch and router.
-3. **Verify SLAAC and DHCPv6:** Use the provided commands to ensure proper IP address assignment and connectivity.
+1. **Open the Packet Tracer File:** Load the provided CISCO Packet Tracer file.
+2. **Cable the Network:** Follow the setup as per the provided topology in the file.
+3. **Configure Devices:** Implement the switch and router configurations as detailed.
+4. **Verify Configurations:** Use Packet Tracer's simulation mode to verify SLAAC, DHCPv6, and routing.
 
 ## Contributing
 
-Contributions to this project are welcome. Please ensure that any proposed changes are well-documented and tested.
+Contributions to this project are welcome. Please ensure that any proposed changes are well-documented and tested within the CISCO Packet Tracer environment.
 
 
 
 ## Contact
 
 For any questions or feedback, please contact [Your Name] at [Your Email Address].
+
